@@ -1,0 +1,5 @@
+# Ignore PyTorch checkpoints
+*.pt
+*.pth
+*.pkl
+*.ckpt
